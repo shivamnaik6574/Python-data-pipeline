@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# MongoDB (Local Project Files)
+# These folders contain the database binaries and the data storage.
+# They are large and platform-specific, so we exclude them.
+# The 'setup_mongo.py' script can re-create them.
+mongodb/
+mongodb_data/
+mongodb_temp/
+mongodb.zip
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE Settings
+.vscode/
+.idea/

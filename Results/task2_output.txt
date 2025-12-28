@@ -1,0 +1,54 @@
+Inserted 9800 records into 'orders'.
+
+--- 1. Top 5 Products by Total Sales ---
+Product ID: TEC-CO-10004722, Total Sales: $61,599.82
+Product ID: OFF-BI-10003527, Total Sales: $27,453.38
+Product ID: TEC-MA-10002412, Total Sales: $22,638.48
+Product ID: FUR-CH-10002024, Total Sales: $21,870.58
+Product ID: OFF-BI-10001359, Total Sales: $19,823.48
+
+--- 2. Total Revenue per Month (Year-Month) ---
+2015-01: $14,205.71
+2015-02: $4,519.89
+2015-03: $55,205.80
+2015-04: $27,906.85
+2015-05: $23,644.30
+2015-06: $34,322.94
+2015-07: $33,781.54
+2015-08: $27,117.54
+2015-09: $81,623.53
+2015-10: $31,453.39
+... (Total 48 months)
+
+--- 3. Average Sales per Sub-Category (Grouped by Category) ---
+
+Category: Furniture
+  - Bookcases: $503.60
+  - Furnishings: $95.82
+  - Tables: $645.89
+  - Chairs: $531.83
+
+Category: Technology
+  - Accessories: $217.18
+  - Phones: $374.18
+  - Machines: $1,645.55
+  - Copiers: $2,215.88
+
+Category: Office Supplies
+  - Appliances: $227.93
+  - Art: $34.02
+  - Labels: $34.59
+  - Paper: $57.42
+  - Envelopes: $65.03
+  - Storage: $263.63
+  - Supplies: $252.28
+  - Binders: $134.07
+  - Fasteners: $14.03
+
+--- 4. Yearly Sales Growth ---
+Year   | Total Sales     | Growth %  
+-----------------------------------
+2015   | $479,856.21    | N/A       
+2016   | $459,436.01    | -4.26%    
+2017   | $600,192.55    | +30.64%   
+2018   | $722,052.02    | +20.30%   
