@@ -37,7 +37,7 @@ echo.
 echo [4/4] Setup Complete!
 echo.
 echo You can now run the tasks. The results will be saved in the 'Results' folder.
-echo   To run Task 1: python task1_pipeline.py
-echo   To run Task 2: python task2_analysis.py
+echo   To run Task 1: python DP1.py
+echo   To run Task 2: python DP2.py
 echo.
 pause
